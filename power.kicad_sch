@@ -3714,6 +3714,16 @@
 		)
 		(uuid "aaa06c5d-032c-435e-a772-9928b5223b4f")
 	)
+	(text "short to gnd for reset"
+		(exclude_from_sim no)
+		(at 140.208 60.706 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bd8119a1-d020-4c4a-b6c3-cb4f2e3f4da9")
+	)
 	(junction
 		(at 39.37 30.48)
 		(diameter 0)
@@ -4217,6 +4227,10 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff072adf-2008-48e3-a1e6-1c6019a0345e")
+	)
+	(no_connect
+		(at 140.97 58.42)
+		(uuid "17ccfc87-b3e7-4078-8c88-353ca460378e")
 	)
 	(no_connect
 		(at 134.62 163.83)
@@ -7795,84 +7809,6 @@
 			(project "ssq338q_V1"
 				(path "/f9b84c53-a818-495f-9733-64f8168cff99/cec0b6a4-c0a0-489c-9f3c-cf508f35c098"
 					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ProPrj_Ope-easyedapro:Test-Point")
-		(at 140.97 58.42 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "17193615-25fb-486f-a99d-519980f47231")
-		(property "Reference" "RST1"
-			(at 145.288 58.928 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.2446 1.2446)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ""
-			(at 140.97 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 140.97 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 140.97 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6801bba6-f1ce-46d8-aef8-2031bb72394a")
-		)
-		(instances
-			(project "ssq338q_V1"
-				(path "/f9b84c53-a818-495f-9733-64f8168cff99/cec0b6a4-c0a0-489c-9f3c-cf508f35c098"
-					(reference "RST1")
 					(unit 1)
 				)
 			)
