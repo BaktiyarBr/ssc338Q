@@ -8619,7 +8619,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 130.81) (xy 383.54 130.81)
+			(xy 361.95 130.81) (xy 383.54 130.81)
 		)
 		(stroke
 			(width 0)
@@ -10659,7 +10659,7 @@
 	)
 	(wire
 		(pts
-			(xy 374.65 133.35) (xy 383.54 133.35)
+			(xy 361.95 133.35) (xy 383.54 133.35)
 		)
 		(stroke
 			(width 0)
@@ -11607,6 +11607,16 @@
 		)
 		(uuid "15c63024-61c4-481c-b0d6-0c6da1dd88a3")
 	)
+	(label "FUART_RX"
+		(at 361.95 130.81 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "162e3221-aa62-49d6-809f-ea450607c8ca")
+	)
 	(label "MIPI_CK+"
 		(at 29.21 222.25 0)
 		(effects
@@ -11756,6 +11766,16 @@
 			(justify left bottom)
 		)
 		(uuid "40d90680-8b78-42b1-8a74-2e5ffa162793")
+	)
+	(label "FUART_TX"
+		(at 361.95 133.35 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "4430c92c-0bd9-410f-b623-526315043eb5")
 	)
 	(label "MIPI_CK-"
 		(at 29.21 224.79 0)
@@ -12047,16 +12067,6 @@
 		)
 		(uuid "7d891b54-252d-493b-b8bd-8acaedcba7e0")
 	)
-	(label "UART_TX1"
-		(at 374.65 133.35 180)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "7f34e50b-deae-4766-901f-602f55cf08e1")
-	)
 	(label "ETH_LED1"
 		(at 29.21 186.69 0)
 		(effects
@@ -12086,16 +12096,6 @@
 			(justify left bottom)
 		)
 		(uuid "885a3c20-aee9-4158-8caf-d9cc1b4b6295")
-	)
-	(label "UART_RX1"
-		(at 374.65 130.81 180)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify right bottom)
-		)
-		(uuid "8a03d383-65f7-4262-8393-1e968d98b106")
 	)
 	(label "USB_DP"
 		(at 303.53 232.41 90)
