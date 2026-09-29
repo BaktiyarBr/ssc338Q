@@ -6996,7 +6996,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 39.37 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -7389,7 +7389,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 238.76 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7437,7 +7437,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "100k"
 			(at 27.94 131.572 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7616,7 +7616,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 261.62 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7755,7 +7755,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10k"
 			(at 72.39 172.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7934,7 +7934,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 223.52 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8171,7 +8171,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 261.62 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8477,7 +8477,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 29.21 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -8757,7 +8757,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 43.18 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9304,7 +9304,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 276.86 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9705,7 +9705,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "15K"
+		(property "Value" "15k"
 			(at 72.39 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9963,7 +9963,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 215.9 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10266,7 +10266,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 215.9 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10582,7 +10582,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 208.28 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -11626,7 +11626,7 @@
 				(justify right top)
 			)
 		)
-		(property "LCSC Part Name" "10uF ±20% 25V"
+		(property "LCSC Part Name" ""
 			(at 140.97 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -11772,7 +11772,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 29.21 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -12219,7 +12219,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 231.14 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12365,7 +12365,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 193.04 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12589,7 +12589,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 200.66 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12735,7 +12735,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 208.28 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13265,7 +13265,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 254 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -13992,7 +13992,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 246.38 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14374,7 +14374,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 254 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14520,7 +14520,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 246.38 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -14744,7 +14744,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 215.9 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -14895,7 +14895,7 @@
 				(justify right top)
 			)
 		)
-		(property "LCSC Part Name" "10uF ±20% 25V"
+		(property "LCSC Part Name" ""
 			(at 106.68 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -15041,7 +15041,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 231.14 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -15264,7 +15264,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 269.24 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15570,7 +15570,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 238.76 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -16756,7 +16756,7 @@
 				)
 			)
 		)
-		(property "LCSC Part Name" "100nF ±10% 50V"
+		(property "LCSC Part Name" ""
 			(at 40.64 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -18062,7 +18062,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "75K"
+		(property "Value" "75k"
 			(at 72.39 128.27 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18391,7 +18391,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "100k"
 			(at 29.464 91.694 90)
 			(show_name no)
 			(do_not_autoplace no)
